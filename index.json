@@ -14,5 +14,21 @@
     "DownloadLinkTesting": "https://github.com/Hildaware/Hilda/releases/download/7.5.0.2/7.5.0.2.zip",
     "DownloadLinkUpdate": "https://github.com/Hildaware/Hilda/releases/download/7.5.0.2/7.5.0.2.zip",
     "IconUrl": "https://hildaware.github.io/Hilda/media/icon.png"
+  },
+  {
+    "Author": "Sel",
+    "Name": "PrettyFly",
+    "AssemblyVersion": "7.5.0.0",
+    "Punchline": "Full FlyText replacement. No more spammy messages!",
+    "Description": "Full replacement for the default 'FlyText' (Scrolling text like damage, healing, etc). Fully customize the position (including above nameplate!), color, animation style, and much more!",
+    "InternalName": "PrettyFly",
+    "RepoUrl": "https://github.com/Hildaware/PrettyFly",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "DownloadLinkInstall": "https://github.com/Hildaware/PrettyFly/releases/download/7.5.0.0/7.5.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/Hildaware/PrettyFly/releases/download/7.5.0.0/7.5.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Hildaware/PrettyFly/releases/download/7.5.0.0/7.5.0.0.zip",
+    "IconUrl": "https://hildaware.github.io/PrettyFly/media/icon.png"
   }
 ]
