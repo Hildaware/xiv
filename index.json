@@ -30,5 +30,21 @@
     "DownloadLinkTesting": "https://github.com/Hildaware/PrettyFly/releases/download/7.5.0.0/7.5.0.0.zip",
     "DownloadLinkUpdate": "https://github.com/Hildaware/PrettyFly/releases/download/7.5.0.0/7.5.0.0.zip",
     "IconUrl": "https://hildaware.github.io/Hilda/media/prettyFly.png"
+  },
+  {
+    "Author": "Sel",
+    "Name": "SelUI",
+    "AssemblyVersion": "7.5.1.0",
+    "Punchline": "A streamlined, FF-flavored HUD replacement.",
+    "Description": "A clean, opinionated UI replacement for unit frames, party frames, nameplates and more. Plug-and-play modules with minimal configuration and a deliberately FF-like look.",
+    "InternalName": "SelUI",
+    "RepoUrl": "https://github.com/Hildaware/SelUI",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "DownloadLinkInstall": "https://github.com/Hildaware/SelUI/releases/download/7.5.1.0/7.5.1.0.zip",
+    "DownloadLinkTesting": "https://github.com/Hildaware/SelUI/releases/download/7.5.1.0/7.5.1.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Hildaware/SelUI/releases/download/7.5.1.0/7.5.1.0.zip",
+    "IconUrl": "https://hildaware.github.io/Hilda/media/selUI.png"
   }
 ]
